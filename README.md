@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple React application that removes the clutter from YouTube and serves you the results you want without going down the related videos Rabbit hole.
+
+## Demo
+![Alt Text](http://g.recordit.co/8dzDuQJ4WF.gif)
 
 ## Available Scripts
 
