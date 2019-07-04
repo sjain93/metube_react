@@ -1,3 +1,4 @@
+## MeTube
 Simple React application that removes the clutter from YouTube and serves you the results you want without going down the related videos Rabbit hole.
 
 ## Demo
