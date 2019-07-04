@@ -1,7 +1,7 @@
 Simple React application that removes the clutter from YouTube and serves you the results you want without going down the related videos Rabbit hole.
 
 ## Demo
-![Alt Text]('./8dzDuQJ4WF.gif')
+![Alt Text](8dzDuQJ4WF.gif)
 
 ## Available Scripts
 
